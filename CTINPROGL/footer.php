@@ -1,0 +1,1 @@
+<div id="pageFooter">Copyright 2024 | <a href="storeadmin/index.php">Admin</a></div>

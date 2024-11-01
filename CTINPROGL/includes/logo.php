@@ -1,0 +1,1 @@
+<td width="32%"><a href="MyOnlineStore/index.php"><img src="style/logo.jpg" alt="Logo" width="252" height="36" border="0" /></a></td>
