@@ -8,4 +8,3 @@
 <p> get grade </p>
 <p> else; </p>
 <p> use our scheduling <a href="https://calendly.com/armadeloibm/30min"> integrator program </a> </p>
-
