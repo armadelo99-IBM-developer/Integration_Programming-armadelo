@@ -7,5 +7,4 @@
 <p> //Related to Integrative Programming Subject         10 </p>
 <p> get grade </p>
 <p> else; </p>
-<p> use schedule integrator https://calendly.com/armadeloibm/30min  href=https://calendly.com/armadeloibm/30min </p>
-
+<p> use our schedule integrator < a "https://calendly.com/armadeloibm/30min"> </a></p>
