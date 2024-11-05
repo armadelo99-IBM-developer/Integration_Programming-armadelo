@@ -2,8 +2,8 @@
 //
 //  Instruction FINAL EXAM for INTEGRATIVE PROGRAMMING
 <p> //Rubriks of grading </p>
-<p> //Working Documented Progam Integration as Submitted                30 </p>
-<p> //Completeleness and Documented Files System Uploads Repositories   50 </p>
+<p> //Working Documented Progam Integration as Submitted                20 </p>
+<p> //Completeleness and Documented Files System Uploads Repositories   60 </p>
 <p> //Code Review of the Program Integrated                             10 </p>
 <p> //Related to our Integrative Programming Subject                    10 </p>
 <p> get passing grade for complete submission </p>
