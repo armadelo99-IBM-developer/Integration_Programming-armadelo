@@ -7,9 +7,9 @@
 <p> //Code Review of the Program Integrated                             10 </p>
 <p> //Related to our Integrative Programming Subject                    10 </p>
 <p>  TOTAL of 100 </p>
-<p> get passing grade for complete submission </p>
+<p> get passing grade for full complete submission </p>
 <p> or; </p>
 <p> use our scheduling <a href="https://calendly.com/armadeloibm/30min"> INTEGRATOR PROGRAM </a> </p>
 <p> else; </p>
-<p> SHOWCASE your Working Integrative Output <a href="https://calendly.com/armadeloibm/30min" target="_blank">in a new tab</a></p>
+<p> SHOWCASE your Working Integrative Output <a href="https://calendly.com/armadeloibm/30min" target="_blank">in a new tab or window</a></p>
 <p> return 3; </p>
