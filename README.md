@@ -11,5 +11,5 @@
 <p> or; </p>
 <p> use our scheduling <a href="https://calendly.com/armadeloibm/30min"> INTEGRATOR PROGRAM </a> </p>
 <p> else; </p>
-<p> INTEGRATE the PROGRAM scheduler <a href="https://calendly.com/armadeloibm/30min" target="_blank">in a new tab</a></p>
+<p> SHOWCASE your Working Integrative Output <a href="https://calendly.com/armadeloibm/30min" target="_blank">in a new tab</a></p>
 <p> return 3; </p>
