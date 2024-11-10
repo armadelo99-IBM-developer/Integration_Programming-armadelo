@@ -6,10 +6,10 @@
 <p> // 2.Completeness and Documented Files System Uploads Repositories            60 </p>
 <p> // 3.Code Review Related to Integrative Programming Subject as Applied        20 </p>
 <p>  TOTAL 1 plus 2 plus 3 equals                                                100 </p>
-<p> get passing grade for full complete submission </p>
+<p> get passing grade for full complete WORKING submission </p>
 <p> or; </p>
 <p> use our scheduling consultation <a href="https://calendly.com/armadeloibm/grade-consultation-with-nu-scholars"> INTEGRATOR PROGRAM </a> </p>
 <p> else; </p>
-<p> SHOWCASE your Working Agreed Integrative Output <a href="https://armadelo99-ibm-developer.github.io/simple_youtube1/" target="_blank">in a new tab or window</a></p>
+<p> SHOWCASE your Working Agreed Integrative Output <a href="https://armadelo99-ibm-developer.github.io/simple_youtube1/" target="_blank"> as sampled in a new tab or window</a></p>
 <p> return 3; </p> 
 
