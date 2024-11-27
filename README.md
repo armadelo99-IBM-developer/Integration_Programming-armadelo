@@ -1,4 +1,4 @@
-//  Simple 123 Instruction;  1 upload 2 edit commit2changes 3 wait 123s.
+//  Simple 123 Instruction;  1upload 2edit commit2changes 3wait 123s.
 
 //  Instruction 123 FINAL EXAM for INTEGRATIVE PROGRAMMING
 <p> //Rubriks of grading </p>
