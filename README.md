@@ -10,6 +10,6 @@
 <p> or; </p>
 <p> use our scheduling consultation <a href="https://calendly.com/armadeloibm/grade-consultation-with-nu-my-scholars"> INTEGRATOR PROGRAM </a> </p>
 <p> else; </p>
-<p> SHOWCASE your Working Agreed Integrative Output <a href="https://onthisday.bufferhead.com/" target="_blank"> as sampled in a new tab or window</a></p>
+<p> SHOWCASE your Working Agreed Integrative Programming  Output <a href="https://onthisday.bufferhead.com/" target="_blank"> as sampled in a new tab or window</a></p>
 <p> return 3; </p> 
 
